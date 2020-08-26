@@ -42,17 +42,17 @@
 			</exclusions>
 		</dependency>
 
-		<!-- Spring AOP
+		<!-- Spring AOP -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aop</artifactId>
-		</dependency> -->
+		</dependency> 
 
-		<!-- Spring TX
+		<!-- Spring TX -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-tx</artifactId>
-		</dependency> -->
+		</dependency> 
 
 		<!-- Spring JDBC
 		<dependency>
@@ -60,11 +60,11 @@
 			<artifactId>spring-jdbc</artifactId>
 		</dependency> -->
 
-		<!-- Spring ORM
+		<!-- Spring ORM -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-orm</artifactId>
-		</dependency> -->
+		</dependency> 
 
 		<!-- Spring WEB -->
 		<dependency>
@@ -94,7 +94,7 @@
 			<artifactId>spring-security-config</artifactId>
 			<version>${spring-security.version}</version>
 		</dependency>
-		<!-- <dependency>
+		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
 			<version>${spring-security.version}</version>
@@ -103,7 +103,7 @@
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-aspects</artifactId>
 			<version>${spring-security.version}</version>
-		</dependency>  -->
+		</dependency>  
 
 		<!-- Servlet -->
 		<dependency>
@@ -123,11 +123,11 @@
 			<version>2.1</version>
 			<scope>provided</scope>
 		</dependency>
-		<!-- <dependency>
+		<dependency>
 			<groupId>taglibs</groupId>
 			<artifactId>standard</artifactId>
 			<version>1.1.2</version>
-		</dependency>  -->
+		</dependency>  
 
 		<!-- jackson -->
 		<dependency>
@@ -141,7 +141,7 @@
 			<version>2.9.4</version>
 		</dependency>
 
-		<!-- AspectJ
+		<!-- AspectJ -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
 			<artifactId>aspectjrt</artifactId>
@@ -151,7 +151,7 @@
 			<groupId>org.aspectj</groupId>
 			<artifactId>aspectjweaver</artifactId>
 			<version>${aspectj-version}</version>
-		</dependency> -->
+		</dependency> 
 
 		<!-- JSR 330 -->
 		<dependency>
