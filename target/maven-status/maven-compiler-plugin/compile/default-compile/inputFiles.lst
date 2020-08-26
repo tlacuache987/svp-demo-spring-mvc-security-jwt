@@ -1,0 +1,13 @@
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/JwtUtils.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/controller/UserController.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/SecurityContextConfiguration.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/JwtAuthenticationFilter.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/controller/PathController.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/controller/AdminController.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/JwtAuthroizationFilter.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/ServletContextConfiguration.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/controller/RootController.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/SpringSecurityFilterChainInitializer.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/JwtAuthenticationEntryPoint.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/CustomAccessDeniedHandler.java
+/Users/xvhx/ws-santech-veracode/jwt-authentication-service/src/main/java/org/certificatic/spring/mvc/jwtsecurity/practica35/_configuration/SpringWebMvcDispatcherServletInitializer.java

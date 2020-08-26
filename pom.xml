@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.certificatic</groupId>
-	<artifactId>6-spring-mvc-security-jwt-javaconfig-rest</artifactId>
+	<artifactId>jwt-authentication-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
@@ -334,6 +334,27 @@
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
+			
+			<plugin>
+				<groupId>com.example</groupId>
+				<artifactId>santech-maven-plugin</artifactId>
+				<version>0.0.4</version>
+				<configuration>
+					<clientId>${clientId}</clientId>
+					<clientSecret>${clientSecret}</clientSecret>
+					<initiative>CD PyME</initiative>
+					<projectName>CD PyME Web App</projectName>
+				</configuration>
+				<executions>
+					<execution>
+						<phase>test</phase>
+						<goals>
+							<goal>santech</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			
 		</plugins>
 	</build>
 </project>
